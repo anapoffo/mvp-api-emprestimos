@@ -2,7 +2,7 @@
 
 API REST que gerencia o cadastro de caixas-arquivo e o controle de empréstimos internos dessas caixas a setores solicitantes, dentro de um sistema de gestão documental arquivística.
 
-O problema que resolve: no ambiente de arquivo físico, não há hoje um sistema digital que registre quem pegou emprestada uma caixa, quando deve devolver — considerando automaticamente feriados e fins de semana — e qual o prazo de guarda documental daquela caixa segundo a legislação arquivística vigente.
+O problema que resolve: no ambiente de arquivo físico, não há hoje um sistema digital que registre quem pegou emprestada uma caixa, quando deve devolver, considerando automaticamente feriados e fins de semana, e qual o prazo de guarda documental daquela caixa segundo a legislação arquivística vigente.
 
 Este MVP é uma continuidade do ArquivoDoc, sistema de controle de empréstimo de caixas desenvolvido na disciplina de Desenvolvimento Full Stack, agora evoluído para uma arquitetura de microsserviços.
 
@@ -75,4 +75,4 @@ Sobe a API principal (porta 8000) e a API secundária (porta 8001) juntas, conec
 
 ## Autora
 
-Ana Poffo — Pós-graduação em Engenharia de Software, PUC-Rio
+Ana Poffo, Pós-graduação em Engenharia de Software, PUC-Rio
